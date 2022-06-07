@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Crud-App-Using-Hooks/static/js/main.bd20161e.chunk.js",
+    "main.js.map": "/Crud-App-Using-Hooks/static/js/main.bd20161e.chunk.js.map",
+    "runtime-main.js": "/Crud-App-Using-Hooks/static/js/runtime-main.e63abf08.js",
+    "runtime-main.js.map": "/Crud-App-Using-Hooks/static/js/runtime-main.e63abf08.js.map",
+    "static/js/2.092d40eb.chunk.js": "/Crud-App-Using-Hooks/static/js/2.092d40eb.chunk.js",
+    "static/js/2.092d40eb.chunk.js.map": "/Crud-App-Using-Hooks/static/js/2.092d40eb.chunk.js.map",
+    "index.html": "/Crud-App-Using-Hooks/index.html",
+    "static/js/2.092d40eb.chunk.js.LICENSE.txt": "/Crud-App-Using-Hooks/static/js/2.092d40eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e63abf08.js",
+    "static/js/2.092d40eb.chunk.js",
+    "static/js/main.bd20161e.chunk.js"
+  ]
+}
